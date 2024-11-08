@@ -14,7 +14,7 @@
 
 ## 👨‍👨‍👦‍👦 팀 프로젝트
 
-📕 **주류 종합 판매 사이트 "한 주"**
+### 📕 주류 종합 판매 사이트 "한 주"
 * 프로젝트 링크 : [https://github.com/cleanMirror/Hanju_Project](https://github.com/cleanMirror/Hanju_Project)
 * 프로젝트 목표 : Vue.js와 Spring Boot, Oracle을 활용한 쇼핑몰 사이트 제작
 * 사이트 소개 : 여러 주류 판매 방식을 한 곳에서 이용 가능한 주류 쇼핑몰 사이트
@@ -23,26 +23,26 @@
 
 ## 🙍‍♂️ 개인 프로젝트
 
-📘 **게임 전적 분석 사이트 "Return GG"**
+### 📘 게임 전적 분석 사이트 "Return GG"
 * 프로젝트 링크 : [https://github.com/cleanMirror/miniProject](https://github.com/cleanMirror/miniProject)
 * 프로젝트 목표 : Vue.js와 Express, Oracle을 활용한 고객관리 사이트 제작
 * 사이트 소개 : 사용자 별, 맞춤 전적 정보를 제공하는 전적 분석 사이트
 * 프로젝트 기간 : 24년 8월 12일 ~ 24년 8월 20일 (6일)
 
 
-📗 **그림 투고 SNS 사이트 "bixiv"**
+### 📗 그림 투고 SNS 사이트 "bixiv"
 * 프로젝트 링크 : [https://github.com/cleanMirror/express-react-project](https://github.com/cleanMirror/express-react-project)
 * 프로젝트 목표 : React와 Express, Mysql을 활용한 SNS 사이트 제작
 * 사이트 소개 : 그림을 투고하고, 팔로우 작가들을 모아서 보여주는 기능을 제공하는 그림 투고 SNS 사이트
 * 프로젝트 기간 : 24년 10월 22일 ~ 24년 10월 30일 (7일)
 
-📙 **안양대 버스 알림 앱 "집이라도 쉽게 가자"**
+### 📙 안양대 버스 알림 앱 "집이라도 쉽게 가자"
 * 프로젝트 링크 : -
 * 프로젝트 목표 : 안드로이드 앱과 Mysql를 활용한 버스 알림 앱 제작
 * 프로젝트 소개 : 강화도 버스의 도착 시간을 예상하고 알림을 줌. 버스 시간 웹 사이트를 파싱해서 남은 시간을 알려 줌.
 * 프로젝트 기간 : -
 
-📔 **모바일 속기 키보드 "-"**
+### 📔 모바일 속기 키보드 "-"
 * 프로젝트 링크 : -
 * 프로젝트 목표 : 안드로이드로 모바일 키보드 앱 제작
 * 프로젝트 소개 : 속기 자판의 원리를 이용해서 기존 키보드보다 더 빠른 입력 방식을 지원하는 모바일 키보드 앱
